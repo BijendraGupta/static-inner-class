@@ -3,13 +3,13 @@
 Inner Class
     Declared class inside class is class is called inner class
     
-Type	Description
+Type of inner class
 
-  Member Inner Class	
+  Member Inner Class
   Anonymous Inner Class	
   Local Inner Class	
   Static Nested Class
   Nested Interface	
-  
-#Static Inner Class
-  A static class is created inside a class.
+    
+# Static Inner Class
+    A static class is created inside a class.
