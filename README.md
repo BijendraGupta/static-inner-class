@@ -1,9 +1,9 @@
-# static-inner-class
+## static-inner-class
 
-Inner Class
+# Inner Class
     Declared class inside class is class is called inner class
     
-Type of inner class
+# Type of inner class
 
   Member Inner Class
   Anonymous Inner Class	
