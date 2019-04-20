@@ -1,15 +1,15 @@
-## static-inner-class
+# static-inner-class
 
-# Inner Class
+## Inner Class
     Declared class inside class is class is called inner class
     
-# Type of inner class
+## Type of inner class
 
-  Member Inner Class
-  Anonymous Inner Class	
-  Local Inner Class	
-  Static Nested Class
-  Nested Interface	
+  ### Member Inner Class
+  ### Anonymous Inner Class	
+  ### Local Inner Class	
+  ### Static Nested Class
+  ### Nested Interface	
     
-# Static Inner Class
+## Static Inner Class
     A static class is created inside a class.
